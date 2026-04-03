@@ -49,19 +49,10 @@ I am currently deep-diving into **Advanced Solution Architecture** and **System 
 
 ## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://github.com/max-dev-loreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="max-dev-loreal" height="30" width="40" /></a>
-<a href="https://youtu.be/pV7I0Aw345I" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="max-dev-loreal" height="30" width="40" /></a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devsqlshark)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqlshark2@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max-dev-loreal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Max's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-dev-loreal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 *Created by Max Dev — Systems & Infrastructure Designer*
