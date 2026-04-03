@@ -33,7 +33,7 @@ An interactive system built with **Three.js** that visually explains how cloud a
 A production-grade, self-healing infrastructure on AWS.
 * *Key Features:* Automated scaling, private-network isolation, and remote state management.
 
-### 🔹 [High-Performance 3D Experiences](https://github.com/max-dev-loreal)
+### 🔹 [High-Performance 3D Experiences]([https://github.com/max-dev-loreal](https://github.com/max-dev-loreal/infrastructure-visualization-engine))
 Exploring the boundaries of web graphics with React Three Fiber.
 * *Focus:* Optimization, shader work, and seamless user interaction.
 
