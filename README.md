@@ -28,7 +28,7 @@ Production-grade multi-AZ AWS architecture provisioned with modular Terraform.
 - Observability: Prometheus + Grafana + CloudWatch Alarms
 - Security: private subnets, IAM least-privilege, VPC endpoints
 
-### EdTech Edge Platform (Deployed for Production)
+### [EdTech Edge Platform (Deployed for Production)](https://github.com/max-dev-loreal/ZSP3)
 
 High-performance React SPA built to replace legacy municipal infrastructure.
 
