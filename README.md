@@ -1,23 +1,44 @@
 # Hi, I'm Maksym 👋
 
-Cloud & DevOps Engineer based in Siedlce, Poland.  
-I build and automate scalable infrastructure — and occasionally build ultra-fast web apps.
+**Junior DevOps Engineer** based in Siedlce, Poland.  
+I build and automate scalable cloud infrastructure — and occasionally ship ultra-fast web apps.
+
+📫 [sqlshark2@gmail.com](mailto:sqlshark2@gmail.com) · [Telegram](https://t.me/devsqlshark) · [LinkedIn](https://www.linkedin.com/in/maksym-novitskyi/)
 
 ---
 
-## 🛠 What I work with
+## 🛠️ What I Work With
 
-| | |
-|:---|:---|
-| **Cloud & IaC** | AWS (VPC, EC2, ASG, ALB, RDS, ECR) · Terraform (modular) |
-| **Containers** | Docker · Kubernetes |
-| **CI/CD & Edge**| GitHub Actions (build/test/push) · Terraform plan/apply · Vercel Edge Network |
-| **Observability** | Prometheus · Grafana · CloudWatch |
-| **OS** | Linux (Arch, daily driver) · Bash · Nginx |
+**Cloud & IaC**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**CI/CD & Edge**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
+
+**OS & Shell**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ---
 
-## 📦 Main Projects
+## 🚀 Main Projects
 
 ### [High-Availability AWS Infrastructure (IaC)](https://github.com/max-dev-loreal/High-Availability-Cloud-Architecture-IaC-)
 
@@ -28,18 +49,30 @@ Production-grade multi-AZ AWS architecture provisioned with modular Terraform.
 - Observability: Prometheus + Grafana + CloudWatch Alarms
 - Security: private subnets, IAM least-privilege, VPC endpoints
 
-### [EdTech Edge Platform (Deployed for Production)](https://github.com/max-dev-loreal/ZSP3)
+### [Infrastructure Visualization Engine](https://github.com/max-dev-loreal/infrastructure-visualization-engine)
 
-High-performance React SPA built to replace legacy municipal infrastructure.
+Interactive 3D visualizer built with Three.js that renders live cloud architecture topology.
 
-- **Infrastructure:** Automated CI/CD deployments to Vercel Edge Network.
-- **Performance:** Achieved perfect **100/100** across all Google Lighthouse metrics.
-- **Delivery:** Successfully pitched and delivered as a modernization solution for local educational institutions.
+- Real-time node graph of AWS services and their relationships
+- Built with React + Three.js (React Three Fiber)
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maksym-novitskyi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/devsqlshark)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.novitskyi.dev@gmail.com)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=max-dev-loreal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-dev-loreal&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Deepening knowledge of **Kubernetes** and **cloud-native security**
+- 🛠️ Open to **Junior DevOps / Cloud Engineer** roles
+- 📍 Based in Siedlce, Poland — open to remote
+
+---
+
+*Open to work · Junior DevOps Engineer · Terraform · AWS · Docker*
