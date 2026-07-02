@@ -49,13 +49,6 @@ Production-grade multi-AZ AWS architecture provisioned with modular Terraform.
 - Observability: Prometheus + Grafana + CloudWatch Alarms
 - Security: private subnets, IAM least-privilege, VPC endpoints
 
-### [Infrastructure Visualization Engine](https://github.com/max-dev-loreal/infrastructure-visualization-engine)
-
-Interactive 3D visualizer built with Three.js that renders live cloud architecture topology.
-
-- Real-time node graph of AWS services and their relationships
-- Built with React + Three.js (React Three Fiber)
-
 ---
 
 ## 📊 GitHub Stats
